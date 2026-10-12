@@ -1,0 +1,48 @@
+# ============================================================
+# IMPORTANT - API Keys & Secrets
+# ============================================================
+
+# Firebase
+google-services.json
+app/google-services.json
+
+# API Keys (Local properties)
+local.properties
+secrets.properties
+
+# Keystore files
+*.jks
+*.keystore
+keystore.properties
+
+# ============================================================
+# Android Studio
+# ============================================================
+*.iml
+.gradle/
+.idea/
+.DS_Store
+build/
+captures/
+.externalNativeBuild
+.cxx
+local.properties
+*.hprof
+
+# ============================================================
+# Built files
+# ============================================================
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+bin/
+gen/
+out/
+release/
+
+# ============================================================
+# Logs
+# ============================================================
+*.log

@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">BonsaiMart</string>
+    <string name="app_version">V 1.0.0</string>
+    <string name="app_copy">"@ JIAT App"</string>
+    <string name="app_name_splash_screen">BonsaiMart</string>
+    <string name="side_nav_home_title">Home</string>
+    <string name="side_nav_profile_title">Profile</string>
+    <string name="side_nav_orders_title">Orders</string>
+    <string name="side_nav_wishlist_title">Wishlist</string>
+    <string name="side_nav_cart_title">Cart</string>
+    <string name="side_nav_message_title">Message</string>
+    <string name="side_nav_settings_title">Settings</string>
+    <string name="side_nav_login_title">Login</string>
+    <string name="side_nav_logout_title">Logout</string>
+    <string name="bottom_nav_home_title">Home</string>
+    <string name="bottom_nav_category_title">Category</string>
+    <string name="bottom_nav_cart_title">Cart</string>
+    <string name="bottom_nav_profile_title">Profile</string>
+    <string name="search_hint">Search here</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="forgot_password">Forgot Password?\n</string>
+    <string name="text_sign_in">Sign In</string>
+    <string name="text_create_account">or, create a new account?</string>
+    <string name="text_sign_up">Sign Up</string>
+    <string name="signup_title">Join EShop</string>
+    <string name="text_signin_account">Already have an Account ?</string>
+    <string name="text_password_message">Password must contain at least 6 characters</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
